@@ -23,7 +23,9 @@ body,
     letter-spacing: 1px;
 }
 
-.section {}
+.section {
+    margin-bottom: 15px;
+}
 
 .section .section-header {
     border-bottom: 1px solid #d0d0d0;
