@@ -1,7 +1,7 @@
 html,
 body,
 .container {
-    font-family: 'Ubuntu Condensed', sans-serif !important;
+    font-family: 'Ubuntu', sans-serif !important;
 }
 
 .container {
@@ -9,12 +9,12 @@ body,
 }
 
 .name {
-    font-size: 5em;
+    font-size: 4em;
 
 }
 
 .contact {
-    margin-top: 26px;
+    margin-top: 20px;
     font-size: 19px;
 }
 
