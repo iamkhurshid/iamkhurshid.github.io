@@ -1,0 +1,32 @@
+html,
+body,
+.container {
+    font-family: 'Ubuntu Condensed', sans-serif !important;
+}
+
+.container {
+    margin-top: 15px;
+}
+
+.name {
+    font-size: 5em;
+}
+
+.contact {
+    margin-top: 26px;
+    font-size: 19px;
+}
+
+.contact label {
+    display: inline-block;
+    letter-spacing: 1px;
+}
+
+.section {}
+
+.section .section-header {
+    border-bottom: 1px solid #a5a4a4;
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 5px 0;
+}
